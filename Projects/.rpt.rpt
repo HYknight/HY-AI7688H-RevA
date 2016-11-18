@@ -1,0 +1,14 @@
+** Drc report for C:\Dropbox\IoT\Design Files\AI7688Module\Ver1.0\ProjectFiles\HY-AI7688H.kicad_pcb **
+** Created on  **
+
+** Found 2 DRC errors **
+ErrType(19): Pad near pad
+    @ (78.301 mm,104.284 mm): Pad on F.Cu, B.Cu, Internal of P1
+    @ (78.826 mm,103.859 mm): Pad 6 on F.Cu, B.Cu, Internal, Non-copper of P1
+ErrType(19): Pad near pad
+    @ (78.301 mm,108.284 mm): Pad on F.Cu, B.Cu, Internal of P1
+    @ (78.826 mm,107.584 mm): Pad 5 on F.Cu, Non-copper of P1
+
+** Found 0 unconnected pads **
+
+** End of Report **

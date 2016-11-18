@@ -1,0 +1,262 @@
+Info: Reading netlist file "C:\Users\HYknight\Dropbox\IoT\Design Files\AI7688Module\Ver1.0\ProjectFiles\HY-AI7688H.net".
+
+Info: Using references to match components and footprints.
+
+* Warning: component 'CON1': board footprint 'TFC-WPAPR-08', netlist footprint 'trongle:TFC-WPAPR-08'
+
+Error: No footprint defined for component 'J1'.
+
+Error: No footprint defined for component 'P6'.
+
+Error: No footprint defined for component 'SW2'.
+
+Error: No footprint defined for component 'SW1'.
+
+Error: No footprint defined for component 'L1'.
+
+Error: No footprint defined for component 'D8'.
+
+Error: No footprint defined for component 'Q2'.
+
+Error: No footprint defined for component 'D5'.
+
+Error: No footprint defined for component 'Q1'.
+
+Error: No footprint defined for component 'D2'.
+
+Error: No footprint defined for component 'FB1'.
+
+Error: No footprint defined for component 'D6'.
+
+Error: No footprint defined for component 'D7'.
+
+Error: No footprint defined for component 'U1'.
+
+Error: No footprint defined for component 'D1'.
+
+Error: No footprint defined for component 'P2'.
+
+Error: No footprint defined for component 'P1'.
+
+Error: No footprint defined for component 'D3'.
+
+Error: No footprint defined for component 'D4'.
+
+Info: Checking netlist component footprint "C1:/57EDEE83/57F460EA:trongle:CAPC0805X024M".
+
+Info: Checking netlist component footprint "C2:/57EDEE83/57F49205:trongle:CAPC0805X024M".
+
+Info: Checking netlist component footprint "C3:/57EDEE83/57F490E8:trongle:CAPC0805X024M".
+
+Info: Checking netlist component footprint "C4:/57EDEE83/57F461DA:trongle:CAPC0805X024M".
+
+Info: Checking netlist component footprint "C5:/57EDEE83/57F4620F:trongle:CAPC0805X024M".
+
+Info: Checking netlist component footprint "C6:/57EDEE83/57F46247:trongle:CAPC0805X024M".
+
+Info: Checking netlist component footprint "C7:/57EDEE83/57F5AFFB:trongle:CAPC0805X024M".
+
+Info: Checking netlist component footprint "C8:/57EDEE83/57FD1B6F:trongle:CAPC0805X024M".
+
+Info: Checking netlist component footprint "C9:/57EDEE83/57F76FDC:trongle:CAPC0805X024M".
+
+Info: Checking netlist component footprint "C10:/57EDEE83/57F66546:trongle:CAPC0805X024M".
+
+Info: Checking netlist component footprint "C11:/57EDEE83/57F76FD6:trongle:CAPC0805X024M".
+
+Info: Checking netlist component footprint "C12:/57EDEE83/57F441DB:trongle:CAPC0805X024M".
+
+Info: Checking netlist component footprint "C13:/57EDEE83/57F44749:trongle:CAPC0805X024M".
+
+Info: Checking netlist component footprint "C14:/57EDEE83/57F8F07C:trongle:CAPC0805X024M".
+
+Info: Checking netlist component footprint "C15:/57EDEE83/58009831:trongle:CAPC0805X024M".
+
+Info: Checking netlist component footprint "C16:/57EDEE83/57F4B563:trongle:CAPC0805X024M".
+
+Info: Checking netlist component footprint "C17:/57EDEE83/57F4B1B7:trongle:CAPC0805X024M".
+
+Info: Checking netlist component footprint "C18:/57EDEE83/5806BFFE:trongle:CAPC0805X024M".
+
+Info: Checking netlist component footprint "C19:/57EDEE83/58045600:trongle:CAPC0805X024M".
+
+Info: Checking netlist component footprint "C20:/57EDEE83/58047FDC:trongle:CAPC0805X024M".
+
+Info: Checking netlist component footprint "C21:/57EDEE83/58072813:trongle:CAPC0805X024M".
+
+Info: Checking netlist component footprint "C22:/57EDEE83/58076F41:trongle:CAPC0805X024M".
+
+Info: Checking netlist component footprint "C23:/57EDEE83/58075A17:trongle:CAPC0805X024M".
+
+Info: Checking netlist component footprint "C24:/57EDEE83/58073A25:trongle:CAPC0805X024M".
+
+Info: Checking netlist component footprint "C25:/57EDEE83/57F76C6C:trongle:CAPC0805X024M".
+
+Info: Checking netlist component footprint "C26:/57EDEE83/5805F34D:trongle:CAPC0805X024M".
+
+Info: Checking netlist component footprint "CON1:/57EDEE83/57F6DDFF:trongle:TFC-WPAPR-08".
+
+Info: Checking netlist component footprint "D1:/57EDEE83/57F57EFC:".
+
+Error: Cannot add new component "D1:/57EDEE83/57F57EFC" due to missing footprint "".
+
+Info: Checking netlist component footprint "D2:/57EDEE83/57F580AC:".
+
+Error: Cannot add new component "D2:/57EDEE83/57F580AC" due to missing footprint "".
+
+Info: Checking netlist component footprint "D3:/57EDEE83/57F497C6:".
+
+Error: Cannot add new component "D3:/57EDEE83/57F497C6" due to missing footprint "".
+
+Info: Checking netlist component footprint "D4:/57EDEE83/57F49A14:".
+
+Error: Cannot add new component "D4:/57EDEE83/57F49A14" due to missing footprint "".
+
+Info: Checking netlist component footprint "D5:/57EDEE83/57F9ABA5:".
+
+Error: Cannot add new component "D5:/57EDEE83/57F9ABA5" due to missing footprint "".
+
+Info: Checking netlist component footprint "D6:/57EDEE83/57F9DF6F:".
+
+Error: Cannot add new component "D6:/57EDEE83/57F9DF6F" due to missing footprint "".
+
+Info: Checking netlist component footprint "D7:/57EDEE83/57FBA945:".
+
+Error: Cannot add new component "D7:/57EDEE83/57FBA945" due to missing footprint "".
+
+Info: Checking netlist component footprint "D8:/57EDEE83/57F8DDE1:".
+
+Error: Cannot add new component "D8:/57EDEE83/57F8DDE1" due to missing footprint "".
+
+Info: Checking netlist component footprint "FB1:/57EDEE83/57F5A3F6:".
+
+Error: Cannot add new component "FB1:/57EDEE83/57F5A3F6" due to missing footprint "".
+
+Info: Checking netlist component footprint "J1:/57EDEE83/5805BF34:".
+
+Error: Cannot add new component "J1:/57EDEE83/5805BF34" due to missing footprint "".
+
+Info: Checking netlist component footprint "L1:/57EDEE83/5806E50D:".
+
+Error: Cannot add new component "L1:/57EDEE83/5806E50D" due to missing footprint "".
+
+Info: Checking netlist component footprint "P1:/57EDEE83/57F4F27B:".
+
+Error: Cannot add new component "P1:/57EDEE83/57F4F27B" due to missing footprint "".
+
+Info: Checking netlist component footprint "P2:/57EDEE83/57F47990:".
+
+Error: Cannot add new component "P2:/57EDEE83/57F47990" due to missing footprint "".
+
+Info: Checking netlist component footprint "P3:/57EDEE83/57F43850:trongle:HR911102A".
+
+Info: Checking netlist component footprint "P4:/57EDEE83/58052C5B:trongle:HDRV12W64_1X12_3048X254X1154".
+
+Info: Checking netlist component footprint "P5:/57EDEE83/57FC492F:trongle:HDRV10W64_1X10_2540X254X1154".
+
+Info: Checking netlist component footprint "P6:/57EDEE83/57F7AF67:".
+
+Error: Cannot add new component "P6:/57EDEE83/57F7AF67" due to missing footprint "".
+
+Info: Checking netlist component footprint "P7:/57EDEE83/57FC4F93:trongle:HDRV12W64_1X12_3048X254X1154".
+
+Info: Checking netlist component footprint "Q1:/57EDEE83/57F9ABAB:".
+
+Error: Cannot add new component "Q1:/57EDEE83/57F9ABAB" due to missing footprint "".
+
+Info: Checking netlist component footprint "Q2:/57EDEE83/57F919F9:".
+
+Error: Cannot add new component "Q2:/57EDEE83/57F919F9" due to missing footprint "".
+
+Info: Checking netlist component footprint "R1:/57EDEE83/57FD088A:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R2:/57EDEE83/57F78FDD:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R3:/57EDEE83/57F78C94:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R4:/57EDEE83/57F78C1E:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R5:/57EDEE83/57F691A7:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R6:/57EDEE83/57F78911:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R7:/57EDEE83/57F788A1:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R8:/57EDEE83/57F7857C:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R9:/57EDEE83/57F43C20:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R10:/57EDEE83/57F43D36:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R11:/57EDEE83/57F97F32:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R12:/57EDEE83/57F98265:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R13:/57EDEE83/580851EC:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R14:/57EDEE83/5808565E:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R15:/57EDEE83/58022CC2:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R16:/57EDEE83/58023563:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R17:/57EDEE83/57FDA522:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R18:/57EDEE83/57FDD769:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R19:/57EDEE83/57FE1C8B:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R20:/57EDEE83/57FE55C4:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R21:/57EDEE83/57FED2BE:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R22:/57EDEE83/57FEF8DC:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R23:/57EDEE83/58047654:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R24:/57EDEE83/57FE7C8E:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R25:/57EDEE83/5806FBAA:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R26:/57EDEE83/580713A9:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R27:/57EDEE83/57F9ABC7:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R28:/57EDEE83/57F9ABB1:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R29:/57EDEE83/57F9DE97:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R30:/57EDEE83/57F7D386:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R31:/57EDEE83/57F7CD60:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R32:/57EDEE83/57FBA951:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R33:/57EDEE83/57F9779E:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "R34:/57EDEE83/57F92CAE:trongle:RESC0805x024M".
+
+Info: Checking netlist component footprint "SW1:/57EDEE83/57F796E0:".
+
+Error: Cannot add new component "SW1:/57EDEE83/57F796E0" due to missing footprint "".
+
+Info: Checking netlist component footprint "SW2:/57EDEE83/57F94B04:".
+
+Error: Cannot add new component "SW2:/57EDEE83/57F94B04" due to missing footprint "".
+
+Info: Checking netlist component footprint "SW3:/57EDEE83/57F44F48:trongle:SW-T1107A(6x3,8x2,5MM)".
+
+Info: Checking netlist component footprint "SW4:/57EDEE83/5805EFB1:trongle:SW-T1107A(6x3,8x2,5MM)".
+
+Info: Checking netlist component footprint "U1:/57EDEE83/58011029:".
+
+Error: Cannot add new component "U1:/57EDEE83/58011029" due to missing footprint "".
+
+Info: Checking netlist component footprint "U2:/57EDEE83/57EEFD21:trongle:AI7688H-M".
+
+Info: Checking netlist component footprint "U3:/57EDEE83/5806B696:trongle:SOT-23-5".
+
+Error: Component 'CON1' pad '14' not found in footprint 'TFC-WPAPR-08'
+
+Error: Component 'CON1' pad '15' not found in footprint 'TFC-WPAPR-08'
+
