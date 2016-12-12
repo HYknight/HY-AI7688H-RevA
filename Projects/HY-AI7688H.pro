@@ -1,4 +1,4 @@
-update=18/11/2016 16:16:05
+update=12/12/2016 22:29:07
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=E:/Data/PCB/Kicad/Projects/KiCAD-Olimex-master/KiCAD-master/KiCAD_Components;../../../../../Kicad/Library
+LibDir=
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -58,4 +58,3 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=C:/Users/HYknight/Dropbox/Kicad/Library/trongle
